@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 454 456">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d65b5b;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-628 -263)">
+    <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(628 263)">
+      <ellipse class="cls-3" cx="227" cy="228" rx="227" ry="228"/>
+      <ellipse class="cls-4" cx="227" cy="228" rx="226.5" ry="227.5"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-2" transform="translate(736 362)">
+      <ellipse class="cls-3" cx="40" cy="43" rx="40" ry="43"/>
+      <ellipse class="cls-4" cx="40" cy="43" rx="39.5" ry="42.5"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-2" transform="translate(905 362)">
+      <ellipse class="cls-3" cx="41" cy="43" rx="41" ry="43"/>
+      <ellipse class="cls-4" cx="41" cy="43" rx="40.5" ry="42.5"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" class="cls-2" transform="translate(764 491)">
+      <ellipse class="cls-3" cx="92.5" cy="76.5" rx="92.5" ry="76.5"/>
+      <ellipse class="cls-4" cx="92.5" cy="76.5" rx="92" ry="76"/>
+    </g>
+  </g>
+</svg>
