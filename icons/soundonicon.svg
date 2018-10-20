@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 700 700">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #100b0b;
+      }
+
+      .cls-6, .cls-7 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: #707070;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_2" data-name="Path 2" class="cls-1" d="M3.879,1.611,199.66-.249l-4.44,480.417L-.56,482.029Z" transform="matrix(0.998, 0.07, -0.07, 0.998, 31.403, -0.194)"/>
+    </clipPath>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="700" height="700"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-2">
+    <rect class="cls-5" width="700" height="700"/>
+    <g id="Group_1" data-name="Group 1">
+      <g id="Speaker" transform="translate(-173 -39.329)">
+        <g id="Speaker-2" data-name="Speaker" class="cls-3" transform="matrix(0.996, -0.087, 0.087, 0.996, 260.703, 145.729)">
+          <g id="Path_1" data-name="Path 1" transform="translate(37.609 204.603) rotate(-40)">
+            <path class="cls-6" d="M 246.3260345458984 245.2419738769531 L 6.227582454681396 239.7898254394531 L 0.5123621821403503 0.5117849111557007 L 240.6108093261719 5.963933944702148 L 246.3260345458984 245.2419738769531 Z"/>
+            <path class="cls-7" d="M 1.024749755859375 1.023529052734375 L 6.716033935546875 239.30078125 L 245.8136444091797 244.7301635742188 L 240.1222991943359 6.452972412109375 L 1.024749755859375 1.023529052734375 M 1.52587890625e-05 -1.52587890625e-05 L 241.0992279052734 5.474899291992188 L 246.83837890625 245.7537078857422 L 5.739105224609375 240.2788543701172 L 1.52587890625e-05 -1.52587890625e-05 Z"/>
+          </g>
+        </g>
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="137" height="149.99" transform="translate(307 280.404)"/>
+      </g>
+      <g id="curved_line" data-name="curved line" transform="matrix(0.848, -0.53, 0.53, 0.848, 291.629, 282.896)">
+        <path id="Path_5" data-name="Path 5" class="cls-4" d="M95.958,0c53.225.2,96.558,44.2,96.788,98.263S150.014,196,96.789,195.8.23,151.6,0,97.533,42.733-.2,95.958,0Z" transform="translate(9.33 2.669)"/>
+        <path id="Path_6" data-name="Path 6" class="cls-5" d="M92.075,0c51.065.194,92.636,41.27,92.85,91.746s-41.009,91.239-92.074,91.045S.215,141.522,0,91.046,41.01-.193,92.075,0Z" transform="translate(0 0)"/>
+      </g>
+      <g id="curved_line2" data-name="curved line2" transform="translate(319.873 298.26) rotate(-38)">
+        <path id="Path_3" data-name="Path 3" class="cls-4" d="M63.239,0c35.077.133,63.635,29.126,63.786,64.758s-28.161,64.41-63.238,64.276S.152,99.909,0,64.277,28.162-.133,63.239,0Z" transform="translate(11.234 6.133)"/>
+        <path id="Path_4" data-name="Path 4" class="cls-5" d="M60.338,0C93.8.127,121.043,27.045,121.184,60.123s-26.874,59.79-60.337,59.663S.141,92.741,0,59.664,26.874-.126,60.338,0Z" transform="translate(0 0)"/>
+      </g>
+      <g id="curved_line3" data-name="curved line3" transform="translate(323.505 306.228) rotate(-43)">
+        <path id="Path_3-2" data-name="Path 3" class="cls-4" d="M41.981,0c23.327.05,42.351,20.035,42.493,44.637S65.82,89.142,42.493,89.092.142,69.057,0,44.455,18.655-.05,41.981,0Z" transform="translate(7.483 4.218)"/>
+        <path id="Path_4-2" data-name="Path 4" class="cls-5" d="M40.057,0c22.254.048,40.4,18.6,40.532,41.44s-17.8,41.314-40.057,41.266S.132,64.1,0,41.266,17.8-.048,40.057,0Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>

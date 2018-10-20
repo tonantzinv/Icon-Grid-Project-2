@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 602 624">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #100b0b;
+      }
+
+      .cls-5 {
+        fill: #050202;
+      }
+
+      .cls-6, .cls-7 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: #707070;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_2" data-name="Path 2" class="cls-1" d="M3.881,1.509,199.655,0l-3.881,448.424L0,449.933Z" transform="matrix(0.998, 0.07, -0.07, 0.998, 243.674, 39.881)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-47.811 -33.234)">
+    <g id="Circle">
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="301" cy="312" rx="301" ry="312" transform="translate(649.811 657.234) rotate(-180)"/>
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" class="cls-2" cx="251" cy="260.5" rx="251" ry="260.5" transform="translate(598.811 606.234) rotate(-180)"/>
+    </g>
+    <g id="Speaker" transform="translate(-200)">
+      <g id="Speaker-2" data-name="Speaker" class="cls-3" transform="matrix(0.996, -0.087, 0.087, 0.996, 45.747, 123.068)">
+        <g id="Path_1" data-name="Path 1" transform="translate(251.062 231.178) rotate(-40)">
+          <path class="cls-6" d="M 246.2704772949219 245.2586822509766 L 14.02290630340576 231.9945526123047 L 0.5318261384963989 0.5311786532402039 L 232.7793731689453 13.7953405380249 L 246.2704772949219 245.2586822509766 Z"/>
+          <path class="cls-7" d="M 1.063613891601562 1.062362670898438 L 14.49613952636719 231.520751953125 L 245.7386322021484 244.7274932861328 L 232.3061065673828 14.26913452148438 L 1.063613891601562 1.062362670898438 M -1.52587890625e-05 -1.52587890625e-05 L 233.2525787353516 13.32154846191406 L 246.8022613525391 245.7898712158203 L 13.54966735839844 232.4683380126953 L -1.52587890625e-05 -1.52587890625e-05 Z"/>
+        </g>
+      </g>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="137" height="140" transform="translate(307 270)"/>
+    </g>
+    <g id="curved_line" data-name="curved line" transform="matrix(0.819, -0.574, 0.574, 0.819, 314.772, 314.721)">
+      <path id="Path_5" data-name="Path 5" class="cls-4" d="M91.7-7.482c52.626-2.119,93.563,39.5,91.435,92.958s-46.515,98.512-99.141,100.63-93.563-39.5-91.435-92.958S39.072-5.364,91.7-7.482Z" transform="translate(15.914 8.224)"/>
+      <path id="Path_6" data-name="Path 6" class="cls-2" d="M88.6-6.639c50.491-2.033,89.811,36.778,87.824,86.685S131.9,172.059,81.407,174.091-8.4,137.314-6.417,87.406,38.111-4.607,88.6-6.639Z" transform="translate(6.061 5.316)"/>
+    </g>
+    <g id="curved_line2" data-name="curved line2" transform="matrix(0.819, -0.574, 0.574, 0.819, 313.673, 314.499)">
+      <path id="Path_3" data-name="Path 3" class="cls-4" d="M59.93-5.435c34.682-1.4,61.66,26.032,60.258,61.262s-30.655,64.922-65.337,66.318S-6.809,96.114-5.406,60.883,25.248-4.039,59.93-5.435Z" transform="translate(24.262 12.425)"/>
+      <path id="Path_4" data-name="Path 4" class="cls-2" d="M57.605-4.823c33.087-1.332,58.854,24.1,57.553,56.806s-29.18,60.3-62.267,61.63S-5.964,89.511-4.662,56.806,24.518-3.491,57.605-4.823Z" transform="translate(12.876 6.364)"/>
+    </g>
+    <g id="curved_line3" data-name="curved line3" transform="matrix(0.829, -0.559, 0.559, 0.829, 315.935, 312.298)">
+      <path id="Path_3-2" data-name="Path 3" class="cls-4" d="M37.962-5.451c23.03-.965,40.945,18,40.014,42.361S57.62,81.8,34.59,82.767s-40.945-18-40.014-42.361S14.932-4.485,37.962-5.451Z" transform="translate(20.688 10.744)"/>
+      <path id="Path_4-2" data-name="Path 4" class="cls-2" d="M36.67-4.839C58.642-5.76,75.752,11.826,74.888,34.441S55.511,76.134,33.54,77.055-5.542,60.39-4.678,37.776,14.7-3.918,36.67-4.839Z" transform="translate(12.876 6.364)"/>
+    </g>
+    <rect id="Line" class="cls-5" width="579" height="63" transform="translate(111.282 520.804) rotate(-42)"/>
+  </g>
+</svg>
