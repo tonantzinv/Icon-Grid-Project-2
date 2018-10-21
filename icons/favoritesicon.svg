@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 329.852 292.523">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-183.45 -203.5)">
+    <line id="Line_1" data-name="Line 1" class="cls-1" x2="303.503" transform="translate(186.5 206.5)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-1" x2="303.503" transform="translate(186.5 298.525)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-1" y1="0.721" x2="174" transform="translate(186.5 389.795)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-1" x2="143" y2="2.418" transform="translate(186.5 484.059)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="69.267" cy="69.267" r="69.267" transform="translate(374.768 357.49)"/>
+    <path id="Path_1" data-name="Path 1" class="cls-2" d="M345.811,65.143c.336-1.416-21.391-31.23-43.945-6.639-12.225,14.54,2.934,29.547,15.593,40.91,21.191,19.022,28.352,19.334,28.352,19.334s11.108-1.062,30.116-19.334C387.8,88,398.811,75.727,389.608,58.5,374.8,32.962,345.811,65.143,345.811,65.143Z" transform="translate(99 342.978)"/>
+  </g>
+</svg>
