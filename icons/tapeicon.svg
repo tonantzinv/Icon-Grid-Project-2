@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 439 308.385">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-8 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #000;
+      }
+
+      .cls-5 {
+        stroke: #030202;
+      }
+
+      .cls-6 {
+        stroke: #707070;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-131 -196)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="439" height="307" rx="6" transform="translate(131 196)"/>
+    <line id="Line_1" data-name="Line 1" class="cls-1" y1="42.431" x2="31" transform="translate(206.5 461.069)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-1" x1="232" transform="translate(237.5 461.069)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-1" x1="25" y1="42.431" transform="translate(469.5 461.069)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-2" width="380" height="231" rx="6" transform="translate(163 207)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-3" y1="1" x2="379" transform="translate(163.5 292.5)"/>
+    <line id="Line_5" data-name="Line 5" class="cls-3" x2="379" transform="translate(163.5 305.5)"/>
+    <line id="Line_6" data-name="Line 6" class="cls-3" x2="379" transform="translate(164.5 375.5)"/>
+    <line id="Line_7" data-name="Line 7" class="cls-3" x2="379" transform="translate(164.5 387.5)"/>
+    <line id="Line_8" data-name="Line 8" class="cls-3" y1="2" x2="379" transform="translate(164.5 338.5)"/>
+    <g id="Rectangle_3" data-name="Rectangle 3" class="cls-4" transform="translate(179 215)">
+      <rect class="cls-7" width="28" height="26"/>
+      <rect class="cls-8" x="1.5" y="1.5" width="25" height="23"/>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" class="cls-4" transform="translate(202 275)">
+      <rect class="cls-7" width="293" height="132"/>
+      <rect class="cls-8" x="1.5" y="1.5" width="290" height="129"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-5" transform="translate(210 307)">
+      <circle class="cls-7" cx="32" cy="32" r="32"/>
+      <circle class="cls-8" cx="32" cy="32" r="30.5"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-5" transform="translate(423 308)">
+      <circle class="cls-7" cx="32" cy="32" r="32"/>
+      <circle class="cls-8" cx="32" cy="32" r="30.5"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" class="cls-5" transform="translate(281 300)">
+      <rect class="cls-7" width="137" height="88"/>
+      <rect class="cls-8" x="1.5" y="1.5" width="134" height="85"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" class="cls-6" transform="translate(242 473)">
+      <circle class="cls-7" cx="11" cy="11" r="11"/>
+      <circle class="cls-8" cx="11" cy="11" r="10.5"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" class="cls-6" transform="translate(438 473)">
+      <circle class="cls-7" cx="11" cy="11" r="11"/>
+      <circle class="cls-8" cx="11" cy="11" r="10.5"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" class="cls-6" transform="translate(407 468)">
+      <circle class="cls-7" cx="5.5" cy="5.5" r="5.5"/>
+      <circle class="cls-8" cx="5.5" cy="5.5" r="5"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" class="cls-6" transform="translate(281 468)">
+      <circle class="cls-7" cx="5.5" cy="5.5" r="5.5"/>
+      <circle class="cls-8" cx="5.5" cy="5.5" r="5"/>
+    </g>
+  </g>
+</svg>

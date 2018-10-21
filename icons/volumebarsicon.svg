@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 700 700">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-2 {
+        fill: #d0d0d0;
+      }
+
+      .cls-3 {
+        fill: #3dbc51;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="700" height="700"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-1">
+    <rect class="cls-4" width="700" height="700"/>
+    <g id="Group_7" data-name="Group 7">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="422" height="24" transform="translate(139 426)"/>
+      <g id="Group_3" data-name="Group 3" transform="translate(23 -21)">
+        <path id="Path_4" data-name="Path 4" d="M11.5,0h54a11.5,11.5,0,0,1,0,23h-54a11.5,11.5,0,0,1,0-23Z" transform="translate(131 378)"/>
+        <path id="Path_5" data-name="Path 5" class="cls-2" d="M11.5,0h54a11.5,11.5,0,0,1,0,23h-54a11.5,11.5,0,0,1,0-23Z" transform="translate(131 414)"/>
+        <path id="Path_3" data-name="Path 3" class="cls-2" d="M11.5,0h54a11.5,11.5,0,0,1,0,23h-54a11.5,11.5,0,0,1,0-23Z" transform="translate(131 342)"/>
+        <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-3" width="77" height="23" rx="11.5" transform="translate(131 306)"/>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(13 -21)">
+        <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-2" width="77" height="23" rx="11.5" transform="translate(246 378)"/>
+        <rect id="Rectangle_7" data-name="Rectangle 7" width="77" height="23" rx="11.5" transform="translate(246 414)"/>
+        <rect id="Rectangle_8" data-name="Rectangle 8" width="77" height="23" rx="11.5" transform="translate(246 342)"/>
+        <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-3" width="77" height="23" rx="11.5" transform="translate(246 306)"/>
+      </g>
+      <g id="Group_1" data-name="Group 1" transform="translate(3 -21)">
+        <rect id="Rectangle_10" data-name="Rectangle 10" width="77" height="23" rx="11.5" transform="translate(361 378)"/>
+        <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-2" width="77" height="23" rx="11.5" transform="translate(361 414)"/>
+        <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-2" width="77" height="23" rx="11.5" transform="translate(361 342)"/>
+        <rect id="Rectangle_13" data-name="Rectangle 13" width="77" height="23" rx="11.5" transform="translate(361 306)"/>
+      </g>
+      <g id="Group_4" data-name="Group 4" transform="translate(108 -21)">
+        <path id="Path_1" data-name="Path 1" class="cls-2" d="M11.5,0h54a11.5,11.5,0,0,1,0,23h-54a11.5,11.5,0,0,1,0-23Z" transform="translate(361 378)"/>
+        <path id="Path_2" data-name="Path 2" class="cls-2" d="M11.5,0h54a11.5,11.5,0,0,1,0,23h-54a11.5,11.5,0,0,1,0-23Z" transform="translate(361 414)"/>
+        <rect id="Rectangle_12-2" data-name="Rectangle 12" width="77" height="23" rx="11.5" transform="translate(361 342)"/>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(3 -170)">
+        <rect id="Rectangle_10-2" data-name="Rectangle 10" width="77" height="23" rx="11.5" transform="translate(361 378)"/>
+        <rect id="Rectangle_11-2" data-name="Rectangle 11" class="cls-3" width="77" height="23" rx="11.5" transform="translate(361 414)"/>
+        <rect id="Rectangle_12-3" data-name="Rectangle 12" class="cls-3" width="77" height="23" rx="11.5" transform="translate(361 342)"/>
+        <rect id="Rectangle_13-2" data-name="Rectangle 13" width="77" height="23" rx="11.5" transform="translate(361 306)"/>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(-102 -170)">
+        <rect id="Rectangle_10-3" data-name="Rectangle 10" width="77" height="23" rx="11.5" transform="translate(361 378)"/>
+        <rect id="Rectangle_11-3" data-name="Rectangle 11" class="cls-3" width="77" height="23" rx="11.5" transform="translate(361 414)"/>
+      </g>
+    </g>
+  </g>
+</svg>
