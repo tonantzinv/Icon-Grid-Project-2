@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 519.96 201.777">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        stroke: #0f0505;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+        stroke-width: 4px;
+      }
+
+      .cls-4 {
+        stroke-width: 5px;
+      }
+
+      .cls-5, .cls-6 {
+        stroke-width: 3px;
+      }
+
+      .cls-6, .cls-8 {
+        fill: none;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(-86 -250)">
+    <g id="Group_1" data-name="Group 1" transform="translate(86 250)">
+      <g id="Rectangle_1" data-name="Rectangle 1" class="cls-1">
+        <rect class="cls-7" width="152.907" height="181.906"/>
+        <rect class="cls-8" x="3" y="3" width="146.907" height="175.906"/>
+      </g>
+      <g id="Ellipse_3" data-name="Ellipse 3" class="cls-1" transform="translate(23.727 64.854)">
+        <circle class="cls-7" cx="52.726" cy="52.726" r="52.726"/>
+        <circle class="cls-8" cx="52.726" cy="52.726" r="49.726"/>
+      </g>
+      <g id="Ellipse_2" data-name="Ellipse 2" class="cls-2" transform="translate(44.818 85.944)">
+        <circle class="cls-7" cx="31.636" cy="31.636" r="31.636"/>
+        <circle class="cls-8" cx="31.636" cy="31.636" r="28.636"/>
+      </g>
+      <g id="Rectangle_2" data-name="Rectangle 2" class="cls-3" transform="translate(13.182 179.797)">
+        <rect class="cls-7" width="21.091" height="8.436"/>
+        <rect class="cls-8" x="2" y="2" width="17.091" height="4.436"/>
+      </g>
+      <g id="Rectangle_3" data-name="Rectangle 3" class="cls-3" transform="translate(118.635 179.797)">
+        <rect class="cls-7" width="21.091" height="8.436"/>
+        <rect class="cls-8" x="2" y="2" width="17.091" height="4.436"/>
+      </g>
+      <g id="Ellipse_4" data-name="Ellipse 4" class="cls-1" transform="translate(57.472 21.091)">
+        <circle class="cls-7" cx="18.454" cy="18.454" r="18.454"/>
+        <circle class="cls-8" cx="18.454" cy="18.454" r="15.454"/>
+      </g>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(453.054 250)">
+      <g id="Rectangle_1-2" data-name="Rectangle 1" class="cls-1">
+        <rect class="cls-7" width="152.907" height="181.906"/>
+        <rect class="cls-8" x="3" y="3" width="146.907" height="175.906"/>
+      </g>
+      <g id="Ellipse_3-2" data-name="Ellipse 3" class="cls-1" transform="translate(23.727 64.854)">
+        <circle class="cls-7" cx="52.726" cy="52.726" r="52.726"/>
+        <circle class="cls-8" cx="52.726" cy="52.726" r="49.726"/>
+      </g>
+      <g id="Ellipse_2-2" data-name="Ellipse 2" class="cls-2" transform="translate(44.818 85.944)">
+        <circle class="cls-7" cx="31.636" cy="31.636" r="31.636"/>
+        <circle class="cls-8" cx="31.636" cy="31.636" r="28.636"/>
+      </g>
+      <g id="Rectangle_2-2" data-name="Rectangle 2" class="cls-3" transform="translate(13.182 179.797)">
+        <rect class="cls-7" width="21.091" height="8.436"/>
+        <rect class="cls-8" x="2" y="2" width="17.091" height="4.436"/>
+      </g>
+      <g id="Rectangle_3-2" data-name="Rectangle 3" class="cls-3" transform="translate(118.635 179.797)">
+        <rect class="cls-7" width="21.091" height="8.436"/>
+        <rect class="cls-8" x="2" y="2" width="17.091" height="4.436"/>
+      </g>
+      <g id="Ellipse_4-2" data-name="Ellipse 4" class="cls-1" transform="translate(57.472 21.091)">
+        <circle class="cls-7" cx="18.454" cy="18.454" r="18.454"/>
+        <circle class="cls-8" cx="18.454" cy="18.454" r="15.454"/>
+      </g>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" class="cls-4" transform="translate(254 419)">
+      <rect class="cls-7" width="183" height="19"/>
+      <rect class="cls-8" x="2.5" y="2.5" width="178" height="14"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" class="cls-4" transform="translate(270 405)">
+      <rect class="cls-7" width="148" height="19"/>
+      <rect class="cls-8" x="2.5" y="2.5" width="143" height="14"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" class="cls-5" transform="translate(291 422)">
+      <circle class="cls-7" cx="6.5" cy="6.5" r="6.5"/>
+      <circle class="cls-8" cx="6.5" cy="6.5" r="5"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" class="cls-5" transform="translate(380 422)">
+      <circle class="cls-7" cx="6.5" cy="6.5" r="6.5"/>
+      <circle class="cls-8" cx="6.5" cy="6.5" r="5"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" class="cls-6" d="M297.5,433.5a14.815,14.815,0,0,1-10.234,13.067C274.429,451.183,252.607,451,252.607,451H206.572s-30.232.175-38.919-3.006c-4.313-1.577-7.5-11.9-2.442-14.493" transform="translate(0 -5)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-6" d="M302.506,433.5c.073,4.917,2.4,15.607-2.27,18.53-3.659,2.21-36.139,2.7-36.139,2.7s-48.626.551-76.133.551c0,0-15.456-1.895-15.551-2.147l-6.209-2.307-7.171-5.154c-.241-.62,0-12.137,0-12.542" transform="translate(227 -5)"/>
+  </g>
+</svg>
