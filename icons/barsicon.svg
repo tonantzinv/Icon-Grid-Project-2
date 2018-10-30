@@ -1,29 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568 329">
-  <defs>
-    <style>
-      .cls-1, .cls-2 {
-        fill: none;
-        stroke: #000;
-        stroke-linecap: round;
-      }
-
-      .cls-1 {
-        stroke-width: 17px;
-      }
-
-      .cls-2 {
-        stroke-width: 15px;
-      }
-    </style>
-  </defs>
-  <g id="Group_1" data-name="Group 1" transform="translate(-32.361 501.185) rotate(-90)">
-    <line id="Line_1" data-name="Line 1" class="cls-1" x2="312" transform="translate(180.685 214.861)"/>
-    <line id="Line_2" data-name="Line 2" class="cls-1" x2="186" transform="translate(244.685 284.861)"/>
-    <line id="Line_3" data-name="Line 3" class="cls-1" y1="0.066" x2="191.815" transform="translate(226.685 148.795)"/>
-    <line id="Line_4" data-name="Line 4" class="cls-1" x2="143" transform="translate(226.5 484.059)"/>
-    <line id="Line_5" data-name="Line 5" class="cls-1" x1="249" transform="translate(215.685 353.861)"/>
-    <line id="Line_6" data-name="Line 6" class="cls-1" x1="224" transform="translate(183.685 425.861)"/>
-    <line id="Line_7" data-name="Line 7" class="cls-2" x2="75" transform="translate(336.685 39.861) rotate(90)"/>
-    <line id="Line_8" data-name="Line 8" class="cls-2" x2="75" transform="translate(336.685 517.861) rotate(90)"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 568 329" style="enable-background:new 0 0 568 329;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:17;stroke-linecap:round;}
+	.st1{fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;}
+</style>
+<g id="Group_1" transform="translate(-32.361 501.185) rotate(-90)">
+	<line id="Line_1" class="st0" x1="180.7" y1="214.9" x2="492.7" y2="214.9"/>
+	<line id="Line_2" class="st0" x1="244.7" y1="284.9" x2="430.7" y2="284.9"/>
+	<line id="Line_3" class="st0" x1="226.7" y1="148.9" x2="418.5" y2="148.8"/>
+	<line id="Line_4" class="st0" x1="226.5" y1="484.1" x2="369.5" y2="484.1"/>
+	<line id="Line_5" class="st0" x1="464.7" y1="353.9" x2="215.7" y2="353.9"/>
+	<line id="Line_6" class="st0" x1="407.7" y1="425.9" x2="183.7" y2="425.9"/>
+	<line id="Line_7" class="st1" x1="336.7" y1="39.9" x2="336.7" y2="114.9"/>
+	<line id="Line_8" class="st1" x1="336.7" y1="517.9" x2="336.7" y2="592.9"/>
+</g>
 </svg>
