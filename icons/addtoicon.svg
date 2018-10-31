@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 602 624">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 700 700">
   <defs>
     <style>
       .cls-1 {
-        fill: #fff;
+        clip-path: url(#clip-Web_1920_1);
       }
 
       .cls-2, .cls-3 {
@@ -19,16 +19,25 @@
         stroke: #fff;
         stroke-width: 4px;
       }
+
+      .cls-4 {
+        fill: #fff;
+      }
     </style>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="700" height="700"/>
+    </clipPath>
   </defs>
-  <g id="Group_1" data-name="Group 1" transform="translate(-47.811 -65.211)">
-    <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="301" cy="312" rx="301" ry="312" transform="translate(47.811 65.211)"/>
-    <line id="Line_1" data-name="Line 1" class="cls-2" x2="303.503" transform="translate(186.5 206.5)"/>
-    <line id="Line_2" data-name="Line 2" class="cls-2" x2="303.503" transform="translate(186.5 298.525)"/>
-    <line id="Line_3" data-name="Line 3" class="cls-2" y1="0.721" x2="174" transform="translate(186.5 389.795)"/>
-    <line id="Line_4" data-name="Line 4" class="cls-2" x2="143" y2="2.418" transform="translate(186.5 484.059)"/>
-    <circle id="Ellipse_2" data-name="Ellipse 2" cx="69.267" cy="69.267" r="69.267" transform="translate(374.768 357.49)"/>
-    <line id="Line_5" data-name="Line 5" class="cls-3" y2="79.342" transform="translate(445.497 387.086)"/>
-    <line id="Line_6" data-name="Line 6" class="cls-3" x2="81.861" transform="translate(403.105 418.864)"/>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-1">
+    <rect class="cls-4" width="700" height="700"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(0 -31.978)">
+      <line id="Line_1" data-name="Line 1" class="cls-2" x2="303.503" transform="translate(186.5 206.5)"/>
+      <line id="Line_2" data-name="Line 2" class="cls-2" x2="303.503" transform="translate(186.5 298.525)"/>
+      <line id="Line_3" data-name="Line 3" class="cls-2" y1="0.721" x2="174" transform="translate(186.5 389.795)"/>
+      <line id="Line_4" data-name="Line 4" class="cls-2" x2="143" y2="2.418" transform="translate(186.5 484.059)"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="69.267" cy="69.267" r="69.267" transform="translate(374.768 357.49)"/>
+      <line id="Line_5" data-name="Line 5" class="cls-3" y2="79.342" transform="translate(445.497 387.086)"/>
+      <line id="Line_6" data-name="Line 6" class="cls-3" x2="81.861" transform="translate(403.105 418.864)"/>
+    </g>
   </g>
 </svg>
